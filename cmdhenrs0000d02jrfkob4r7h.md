@@ -23,7 +23,7 @@ But still... I showed up today. And **that’s a win**.
 
 Here’s what I did today:
 
-* ✅ Watched the first **10 videos/8** of *Code4Education’s React - Beginner to Advanced* playlist. Felt good to finally get into the groove again.
+* ✅ Watched the first **10 videos/80** of *Code4Education’s React - Beginner to Advanced* playlist. Felt good to finally get into the groove again.
     
 * ✅ Solved a neat little **Java problem**. Baby steps — but each one counts.
     
